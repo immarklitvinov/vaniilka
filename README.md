@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on international projects.
 - 📫 How to reach me:
 
-[email](mark.litvinov.2003@mail.ru)
-[telegram](https:/t.me/marklitvinov)
+📫 email | 📎 telegram
+------- |-----------
+[mark.litvinov.2003@mail.ru](mark.litvinov.2003@mail.ru) | [@marklitvinov](https:/t.me/marklitvinov)
+
 
 <!---
 vaniilka/vaniilka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
