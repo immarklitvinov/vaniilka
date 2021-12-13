@@ -6,7 +6,7 @@
 
 📫 email | 📎 telegram
 ------- |-----------
-[mark.litvinov.2003@mail.ru](mark.litvinov.2003@mail.ru) | [@marklitvinov](https:/t.me/marklitvinov)
+[mark.litvinov.2003@mail.ru](mailto:mark.litvinov.2003@mail.ru) | [@marklitvinov](https://t.me/marklitvinov)
 
 
 <!---
