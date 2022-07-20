@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @vaniilka and my name is Mark Litvinov
-- 👀 I’m interested in creating SaaS projects.
-- 🌱 I’m currently learning algorithms and c++.
-- 💞️ I’m looking to collaborate on international projects.
+- 👋 Hi, I’m @immarklitvinov and my name is Mark Litvinov
+- 👀 I’m interested in creating SaaS projects and hft-strategies
+- 🌱 I’m currently learning algorithms and c++
+- 💞️ I’d love to collaborate on international projects
 - 📫 How to reach me:
 
 📫 email | 📎 telegram
 ------- |-----------
-[mark.litvinov.2003@mail.ru](mailto:mark.litvinov.2003@mail.ru) | [@marklitvinov](https://t.me/marklitvinov)
+[immarklitvinov@gmail.com](mailto:immarklitvinov@gmail.com) | [@marklitvinov](https://t.me/marklitvinov)
 
 
 <!---
